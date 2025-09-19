@@ -3,7 +3,7 @@
 # Práctica 0: Modelo del sistema respiratorio
 
 ## Infromación del\la estudiante
-Kenia Cardenas Manzo \[20210773]:  kenia.cardenas201@tectijuana.edu.mx
+Kenia Cardenas Manzo \[20210773];  kenia.cardenas201@tectijuana.edu.mx
 
 Modelado de Sistemas Fisiológicos
 
