@@ -1,6 +1,6 @@
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=kecm96/Practica0MSF)
 
-# Práctica 0: Modelo del sistema respiratorio
+# Práctica 0: Modelo de la sistema respiratorio
 
 ## Información del estudiante
 Kenia Cardenas Manzo \[20210773];  kenia.cardenas201@tectijuana.edu.mx
